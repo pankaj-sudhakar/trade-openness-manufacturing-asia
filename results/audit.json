@@ -1,0 +1,279 @@
+{
+  "baseline_n": 389,
+  "naive_previous_row_difference_n": 371,
+  "valid_annual_difference_n": 369,
+  "gap_difference": 2,
+  "coverage": [
+    {
+      "iso3": "AFG",
+      "country": "Afghanistan",
+      "n": 2,
+      "first": 2020,
+      "last": 2021,
+      "missing_years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "iso3": "BGD",
+      "country": "Bangladesh",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "BTN",
+      "country": "Bhutan",
+      "n": 23,
+      "first": 2002,
+      "last": 2024,
+      "missing_years": [
+        2000,
+        2001
+      ]
+    },
+    {
+      "iso3": "IND",
+      "country": "India",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "MDV",
+      "country": "Maldives",
+      "n": 11,
+      "first": 2014,
+      "last": 2024,
+      "missing_years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "iso3": "NPL",
+      "country": "Nepal",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "PAK",
+      "country": "Pakistan",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "LKA",
+      "country": "Sri Lanka",
+      "n": 20,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "iso3": "BRN",
+      "country": "Brunei Darussalam",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "KHM",
+      "country": "Cambodia",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "IDN",
+      "country": "Indonesia",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "LAO",
+      "country": "Lao PDR",
+      "n": 17,
+      "first": 2000,
+      "last": 2016,
+      "missing_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "iso3": "MYS",
+      "country": "Malaysia",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "MMR",
+      "country": "Myanmar",
+      "n": 0,
+      "first": null,
+      "last": null,
+      "missing_years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "iso3": "PHL",
+      "country": "Philippines",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "SGP",
+      "country": "Singapore",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "THA",
+      "country": "Thailand",
+      "n": 25,
+      "first": 2000,
+      "last": 2024,
+      "missing_years": []
+    },
+    {
+      "iso3": "TLS",
+      "country": "Timor-Leste",
+      "n": 21,
+      "first": 2003,
+      "last": 2024,
+      "missing_years": [
+        2000,
+        2001,
+        2002,
+        2004
+      ]
+    },
+    {
+      "iso3": "VNM",
+      "country": "Vietnam",
+      "n": 20,
+      "first": 2005,
+      "last": 2024,
+      "missing_years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    }
+  ],
+  "leaveout_range": [
+    0.0495461732841176,
+    0.08520158040359274
+  ],
+  "mean_abs_residual_cross_country_r": 0.4415969900527972,
+  "median_residual_serial_r": 0.8525699315042796,
+  "balanced_figure_countries": [
+    "BGD",
+    "BRN",
+    "BTN",
+    "IDN",
+    "IND",
+    "KHM",
+    "MYS",
+    "NPL",
+    "PAK",
+    "PHL",
+    "SGP",
+    "THA",
+    "TLS"
+  ],
+  "balanced_figure_counts": {
+    "South Asia": 5,
+    "Southeast Asia": 8
+  }
+}

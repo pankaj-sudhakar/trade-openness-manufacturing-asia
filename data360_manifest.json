@@ -1,0 +1,82 @@
+[
+  {
+    "indicator": "NV.IND.MANF.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NV_IND_MANF_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 01:59:44 GMT",
+    "sha256": "88ec48c3c7bd50863544e8490ddef565c31d360c667e730583f37b49181d3b1e",
+    "bytes": 4172868,
+    "file": "NV.IND.MANF.ZS.csv"
+  },
+  {
+    "indicator": "NE.TRD.GNFS.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NE_TRD_GNFS_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 01:42:16 GMT",
+    "sha256": "84cc77af8eec5c0eadb7e867316c3abbd3f5ff10432b476f3c5ac1891c757c1a",
+    "bytes": 4393554,
+    "file": "NE.TRD.GNFS.ZS.csv"
+  },
+  {
+    "indicator": "BX.KLT.DINV.WD.GD.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_BX_KLT_DINV_WD_GD_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Thu, 02 Jul 2026 18:53:42 GMT",
+    "sha256": "f35eee7ae7bddd94c7b64bcd5ec2a4ccc959715bd114610651b28341799a72ae",
+    "bytes": 5087195,
+    "file": "BX.KLT.DINV.WD.GD.ZS.csv"
+  },
+  {
+    "indicator": "NE.GDI.TOTL.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NE_GDI_TOTL_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 01:39:51 GMT",
+    "sha256": "11d492001b5d663ee58e41b1f01ee5c76d67fc8668ca12638d966bfec0144759",
+    "bytes": 4476899,
+    "file": "NE.GDI.TOTL.ZS.csv"
+  },
+  {
+    "indicator": "NY.GDP.PCAP.KD",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NY_GDP_PCAP_KD.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 02:42:57 GMT",
+    "sha256": "8095fa9258c862417028cc39f3b71b4f42da4b705b22b9dc963e265ebdf4d7df",
+    "bytes": 6259192,
+    "file": "NY.GDP.PCAP.KD.csv"
+  },
+  {
+    "indicator": "NV.IND.MANF.KD.ZG",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NV_IND_MANF_KD_ZG.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 01:55:44 GMT",
+    "sha256": "7789419bb52f8f6a88a169926171aa3898ee1d71cad835e671c6a154a613c113",
+    "bytes": 3852142,
+    "file": "NV.IND.MANF.KD.ZG.csv"
+  },
+  {
+    "indicator": "NE.EXP.GNFS.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NE_EXP_GNFS_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Thu, 02 Jul 2026 02:57:50 GMT",
+    "sha256": "9f4bb44cc34bf80eb3e8677627b1733aca7d48b3ee85b0d6b5c8e3913bac74cf",
+    "bytes": 4738389,
+    "file": "NE.EXP.GNFS.ZS.csv"
+  },
+  {
+    "indicator": "NE.IMP.GNFS.ZS",
+    "url": "https://data360files.worldbank.org/data360-data/data/WB_WDI/WB_WDI_NE_IMP_GNFS_ZS.csv",
+    "retrieval_date": "2026-10-01",
+    "timezone": "Asia/Calcutta",
+    "http_last_modified": "Fri, 03 Jul 2026 01:41:01 GMT",
+    "sha256": "4face993eb03d459b1c61b76e52418a11fd7456c811c2185d7bd1dd943f8dea8",
+    "bytes": 4759281,
+    "file": "NE.IMP.GNFS.ZS.csv"
+  }
+]

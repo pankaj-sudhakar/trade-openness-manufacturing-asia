@@ -1,0 +1,80 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "estimation": "NumPy OLS with explicit CR1 covariance; local linear_backend.py",
+  "raw_data": {
+    "NV.IND.MANF.ZS": {
+      "sha256": "88ec48c3c7bd50863544e8490ddef565c31d360c667e730583f37b49181d3b1e",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Manufacturing, value added (% of GDP)"
+      ]
+    },
+    "NE.TRD.GNFS.ZS": {
+      "sha256": "84cc77af8eec5c0eadb7e867316c3abbd3f5ff10432b476f3c5ac1891c757c1a",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Trade (% of GDP)"
+      ]
+    },
+    "BX.KLT.DINV.WD.GD.ZS": {
+      "sha256": "f35eee7ae7bddd94c7b64bcd5ec2a4ccc959715bd114610651b28341799a72ae",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Foreign direct investment, net inflows (% of GDP)"
+      ]
+    },
+    "NE.GDI.TOTL.ZS": {
+      "sha256": "11d492001b5d663ee58e41b1f01ee5c76d67fc8668ca12638d966bfec0144759",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Gross capital formation (% of GDP)"
+      ]
+    },
+    "NY.GDP.PCAP.KD": {
+      "sha256": "8095fa9258c862417028cc39f3b71b4f42da4b705b22b9dc963e265ebdf4d7df",
+      "unit": [
+        "US dollars, 2015 constant prices"
+      ],
+      "indicator": [
+        "GDP per capita (constant 2015 US$)"
+      ]
+    },
+    "NV.IND.MANF.KD.ZG": {
+      "sha256": "7789419bb52f8f6a88a169926171aa3898ee1d71cad835e671c6a154a613c113",
+      "unit": [
+        "Percentage change per annum"
+      ],
+      "indicator": [
+        "Manufacturing, value added (annual % growth)"
+      ]
+    },
+    "NE.EXP.GNFS.ZS": {
+      "sha256": "9f4bb44cc34bf80eb3e8677627b1733aca7d48b3ee85b0d6b5c8e3913bac74cf",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Exports of goods and services (% of GDP)"
+      ]
+    },
+    "NE.IMP.GNFS.ZS": {
+      "sha256": "4face993eb03d459b1c61b76e52418a11fd7456c811c2185d7bd1dd943f8dea8",
+      "unit": [
+        "Percentage of GDP"
+      ],
+      "indicator": [
+        "Imports of goods and services (% of GDP)"
+      ]
+    }
+  }
+}

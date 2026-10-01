@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this data and code supplement and the original World Bank data when reusing this research."
+type: dataset
+title: "Trade Openness and Manufacturing Value Added Shares in South and Southeast Asia: Data and Code"
+authors:
+  - family-names: "Sudhakar"
+    given-names: "Pankaj Kumar"
+version: "1.0.0"
+date-released: "2026-10-01"
+repository-code: "https://github.com/pankaj-sudhakar/trade-openness-manufacturing-asia"
+url: "https://github.com/pankaj-sudhakar/trade-openness-manufacturing-asia"
+abstract: "Reproducibility supplement for an observational panel analysis covering 2000-2024. Contains World Bank WDI source snapshots, processed panels, Python analysis code, results, figures and provenance. This supplement is not a peer-reviewed publication."
+keywords:
+  - trade openness
+  - manufacturing
+  - South Asia
+  - Southeast Asia
+  - panel data
