@@ -2,6 +2,15 @@
 
 This package supports **Trade Openness and Manufacturing Value Added Shares in South and Southeast Asia**. All estimates were rebuilt from official World Bank observations. No regression estimates were taken as input from the earlier manuscript.
 
+
+## Open or download the data
+
+- **[Browse small study-data tables](study_data/README.md)**: all eight indicators, with country, year, value and units.
+- **[Open the full analysis panel](panel_all_countries.csv)** or **[baseline estimation sample](baseline_sample.csv)**.
+- **[Download the complete repository ZIP](https://github.com/pankaj-sudhakar/trade-openness-manufacturing-asia/archive/refs/heads/main.zip)**, then extract it to open files locally.
+
+Large CSVs in `raw/` exceed GitHub's preview limit. This is a display limitation, not file corruption. The study-data index includes direct downloads of the unchanged originals. Use the repository's `main` branch to see these navigation improvements; earlier commit links keep showing their original contents.
+
 ## Data provenance
 
 - Provider: World Bank, World Development Indicators, distributed by the official Data360 file service.
